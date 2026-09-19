@@ -1,0 +1,6 @@
+{
+  "name": "BIM Surveyor Stakeout",
+  "description": "Professional BIM Revit coordinate transformation and precision GPS field stakeout guidance module with RevenueCat Pro licensing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
