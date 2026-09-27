@@ -11,8 +11,7 @@ A professional-grade, high-precision construction layout and geodetic coordinate
 | **GitHub Repository** | https://github.com/sherifmagd2019/BIMRover | ✅ Official Source |
 | **GitHub Releases (APK)** | https://github.com/sherifmagd2019/BIMRover/releases | ✅ Latest Build |
 | **APKPure (Distribution)** | https://apkpure.com/p/com.aistudio.bimsurveyor.qzkpnt | ✅ Mirror |
-| **Firebase Console** | https://console.firebase.google.com/project/bimrover2027 | ✅ Backend |
-| **YouTube Demo** | https://youtu.be/lItw69JnONY | ✅ 1:33 Overview |
+| **YouTube Demo** | https://youtu.be/lItw69JnONY | ✅ 2:50 Overview |
 | **Devpost Submission** | https://devpost.com/software/geobim-revit-to-field-gps-engine-bimrover-2027 | ✅ RevenueCat Shipaton 2026 |
 
 ### Clone Repository
