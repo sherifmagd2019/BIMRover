@@ -14,6 +14,19 @@ A professional-grade, high-precision construction layout and geodetic coordinate
 | **YouTube Demo** | https://youtu.be/lItw69JnONY | ✅ 2:50 Overview |
 | **Devpost Submission** | https://devpost.com/software/geobim-revit-to-field-gps-engine-bimrover-2027 | ✅ RevenueCat Shipaton 2026 |
 
+
+## ⚡ Traditional vs. BIMRover
+
+| Metric | Traditional | BIMRover |
+|---|---:|---:|
+| Personnel | 8–12 | 1 |
+| Layout duration | 12–14 hours | ~1 hour |
+| Physical reference setup | Required | Digital |
+| Design-to-field transfer | Manual | BIM → GPS |
+
+
+
+
 ### Clone Repository
 ```bash
 git clone https://github.com/sherifmagd2019/BIMRover.git
